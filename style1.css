@@ -374,10 +374,10 @@ width: 45%;
 
      }
 
-     /* skillssection styling */
+     /* skillssection styling 
    .skills .title::after{
        content: "What I know";
-   }
+   }*/
    .skills .skills-content .column{
        width:calc(50% - 30px);
    }
@@ -466,10 +466,10 @@ background:none;
              
                 }
 
-                /* team styling */
+                /* team styling 
                 .teams .title::after{
                     content:"Work Eperience"
-                }
+                }*/
 
                 .teams .carousel .card{
                     background: #11223F;
